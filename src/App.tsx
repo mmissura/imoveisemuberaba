@@ -16,7 +16,7 @@ export const App = () => {
             target="_blank"
             className="bg-white text-black py-3 px-10 text-center mt-12 flex justify-center items-center gap-3 rounded-xl mb-12"
             >
-              Imobiliaria 1
+              Imobiliária Vínculo
             </a>
             {/* Sua imobiliária aqui */}
           </div>
@@ -25,7 +25,7 @@ export const App = () => {
             target="_blank"
             className="bg-white text-black py-3 px-10 text-center mt-12 flex justify-center items-center gap-3 rounded-xl mb-12"
             >
-              Imobiliaria 2
+              Imobiliária Zago
             </a>
             {/* Sua imobiliária aqui */}
           </div>
@@ -34,16 +34,16 @@ export const App = () => {
             target="_blank"
             className="bg-white text-black py-3 px-10 text-center mt-12 flex justify-center items-center gap-3 rounded-xl mb-12"
             >
-              Imobiliaria 3
+              Imobiliária Inova
             </a>
             {/* Sua imobiliária aqui */}
           </div>
           <div className="2xl:w-52 xl:w-52 lg:w-52 w-full h-52 2xl:col-span-3 xl:col-span-3 lg:col-span-6 col-span-12 bg-white flex justify-center items-center">
-            <a href='https://vinculoimoveis.com.br/'
+            <a href='https://maiaimoveis.imb.br/'
             target="_blank"
             className="bg-white text-black py-3 px-10 text-center mt-12 flex justify-center items-center gap-3 rounded-xl mb-12"
             >
-              Imobiliaria 4
+              Imobiliária Maia
             </a>
             {/* Sua imobiliária aqui */}
           </div>
